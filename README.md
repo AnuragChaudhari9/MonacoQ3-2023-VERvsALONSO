@@ -7,7 +7,7 @@ Just to put things in perspective as to how tight this session was, P3 placed Fe
 
 ## Monaco Grand Prix 
 First introduced in F1 in 1929, this legendary track is notorious for being technically challenging due to its narrow width and insanely tight curves. ![monaco_track](https://github.com/user-attachments/assets/061c9695-f624-408f-89e3-2b554ceb7e7c)<br/>
-Here, not only do you need to be fast, but also sharp in turning. This is where Verstappen and Alonso differed. Redbull was obviously the faster car compared to Ashton Martin of Alonso, especially on straights. However, that day Max was facing lots of issues with slow speed grip.
+Here, not only do you need to be fast, but also sharp in turning. This is where Verstappen and Alonso differed. Redbull was obviously the faster car compared to Ashton Martin of Alonso, especially on straights. Max was facing lots of issues with slow speed grip. However, Max was able to overcome that and gain an insane amount of time in Sector 3 due to his millimetre-accurate driving through tight turns.
 
 ## Q3 2023
 ![speed_comparison](https://github.com/user-attachments/assets/7b389188-9536-4138-aa9c-86d95a2b8705)
@@ -15,4 +15,4 @@ Here, not only do you need to be fast, but also sharp in turning. This is where 
 
 If you compare the plots of VER vs ALONSO, we can see Alonso was much more aggressive on the throttle than Verstappen. He was late on lifting the throttle, which worked in his favour in Sector 1 and Sector 2. He was 0.137s ahead of Verstappen after S2.
 But on a punishing track such as Monaco, this might have led to him having to break harder and compromise his entries into T12 and T13. This meant he carried lower speeds than Verstappen through these corners and had lower exit speeds as well. This can be seen in the Speed Plot. <br/>
-Verstappen brushed the walls in S3, showcasing millimetre accuracy, and was finally able to gain 0.221 seconds in the shortest sector of the map! Truly this was the most legendary Q3s of all time in F1.
+Verstappen brushed the walls in S3, showcasing millimetre accuracy, and was finally able to gain 0.221 seconds in the shortest sector of the map! Watch the attached video above of the time comparison where you can clearly see Alonso was leading till S3 and a couple of good corners T12, T13 and T14 put Max ahead at the end. Truly this was the most legendary Q3s of all time in F1.
